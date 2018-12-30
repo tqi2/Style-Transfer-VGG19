@@ -26,3 +26,12 @@ My photo:
 and *The SF Scream* 😱
 
 ![transfer][image3]
+
+# Environment
+Python: 3.6
+
+PyTorch: 0.4.0
+
+GPU: NVIDIA GeForce GTX 970M
+
+Windows: 8.1
