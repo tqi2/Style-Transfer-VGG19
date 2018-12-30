@@ -1,10 +1,11 @@
 # Style-Transfer-VGG19
 Recreate a Style Transfer in PyTorch
+
 [//]: # (Image References)
 
 [image1]: ./readmeimgages/sf.jpeg "sf"
 [image2]: ./readmeimgages/thescream.jpeg "scream"
-[image3]: ./readmeimgages/transfer2.png "transfer"
+[image3]: ./readmeimgages/transfer1.png "transfer"
 
 # Overview
 
