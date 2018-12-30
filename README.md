@@ -9,7 +9,7 @@ Recreate a Style Transfer in PyTorch
 
 # Overview
 
-In this notebook, we’ll recreate a style transfer method that is outlined in the paper, [Image Style Transfer Using Convolutional Neural Networks, by Gatys]('https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf') in PyTorch. You can transfer a style of an image onto another by this implementation.
+In this notebook, we’ll recreate a style transfer method that is outlined in the paper, [**Image Style Transfer Using Convolutional Neural Networks, by Gatys**](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) in PyTorch. You can transfer a style of an image onto another by this implementation.
 
 # Result
 
