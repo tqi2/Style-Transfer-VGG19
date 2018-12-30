@@ -13,7 +13,7 @@ In this notebook, we’ll recreate a style transfer method that is outlined in t
 
 # Result
 
-You can check the notebook for the implementation of the paper, and a style transfer onto an octopus after 2000 iterations. I also tried my own photo, which I took at California St at San Francisco, with the style of << *The Scream* >>, created by Norwegian Expressionist artist Edvard Munch in 1893. As you can the following result, which I can't say whether it is Impressionism or Expressionism.
+You can check the [**Style_Transfer.ipynb**](https://github.com/tqi2/Style-Transfer-VGG19/blob/master/Style_Transfer.ipynb) for the implementation of the paper, and a style transfer onto an octopus after 2000 iterations. I also tried my own photo, which I took at California St at San Francisco, with the style of << *The Scream* >>, created by Norwegian Expressionist artist Edvard Munch in 1893. As you can the following result, which I can't say whether it is Impressionism or Expressionism.
 
 My photo:
 
